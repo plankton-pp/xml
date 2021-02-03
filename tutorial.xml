@@ -9,32 +9,32 @@
             <substep>
                 <stepnum>1</stepnum>
                 <stepname>ทำน้ำราด</stepname>
-                <descrition>นำหม้อขึ้นตั้งไฟปานกลาง เทหัวกะทิลงไป ตามด้วยน้ำตาลทราย และเกลือ คนให้เข้ากัน และต้มจนเดือด</descrition>
+                <description>นำหม้อขึ้นตั้งไฟปานกลาง เทหัวกะทิลงไป ตามด้วยน้ำตาลทราย และเกลือ คนให้เข้ากัน และต้มจนเดือด</descrition>
             </substep>
             <substep>
                 <stepnum>2</stepnum>
                 <stepname>ทำแป้ง</stepname>
-                <descrition>
+                <description>
                     แบ่งแป้งข้าวเหนียว และแป้งข้าวเจ้า เป็นสามส่วนเท่า ๆ กัน (ส่วนละ ⅓ ถ้วย)
                     ถ้วยแรกใส่มันม่วงบด และน้ำเปล่า (แป้งมันม่วง) นวดให้เข้ากันจนแป้งไม่ติดมือ
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>2</stepnum>
                 <stepname>ทำแป้ง</stepname>
-                <descrition>
+                <description>
                     ถ้วยที่สองใส่ฟักทองบด และน้ำเปล่า (แป้งฟักทอง) นวดให้เข้ากันจนแป้งไม่ติดมือ
                     ถ้วยที่สาม ใส่น้ำใบเตย นวดให้เข้ากันจนแป้งไม่ติดมือ
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>2</stepnum>
                 <stepname>ทำแป้ง</stepname>
                 <timerMinutes>20</timerMinutes>
-                <descrition>
+                <description>
                     ปั้นบัวลอยขนาดประมาณเท่าเหรียญห้า หรือตามชอบ จากนั้นนำมาเสียบไม้ และนำไปแช่เย็นให้เซตตัว 20 นาที
                     นำบัวลอบเสียบไม้ไปต้มในน้ำเดือดจัดจนสุก และตักออกใส่น้ำเย็นเพื่อให้เซตตัว
-                </descrition>
+                </description>
             </substep>
         </step>
     </menu>
@@ -50,37 +50,37 @@
             <substep>
                 <stepnum>1</stepnum>
                 <stepname>ทำไส้+ทำแป้ง</stepname>
-                <descrition>
+                <description>
                     นำหม้อขึ้นตั้งไฟปานกลาง ใส่น้ำตาลมะพร้าวลงไป ตามด้วยน้ำมะพร้าว และเกลือ คนจนละลายเป็นเนื้อเดียวกัน และเดือด
                     ใส่มะพร้าวขูดลงไป ผัดให้แห้งและหอม จากนั้นยกออกจากเตา และพักไว้ให้เย็นสนิท
                     Tip:ถ้าไส้ไม่เย็นสนิท เวลานำมาห่อแป้งจะทำให้แป้งเหลว และแตก
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>1</stepnum>
                 <stepname>ทำไส้+ทำแป้ง</stepname>
-                <descrition>
+                <description>
                     แบ่งแป้งข้าวเหนียวเป็น 4 ส่วนเท่า ๆ กัน (ส่วนละ 125 กรัม) ผสมน้ำแต่ละถ้วย ได้แก่ น้ำใบเตย น้ำดอกอัญชัน 
                     น้ำกระเจี๊ยบ และน้ำมะพร้าว นวดให้เข้ากันจนแป้งไม่ติดมือ
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>2</stepnum>
                 <stepname>สอดไส้+ต้ม</stepname>
-                <descrition>
+                <description>
                     หยิบแป้งขึ้นมาหนึ่งหยิบมือแล้วปั้นเป็นลูกกลม ๆ บีบให้แบนความหนาประมาณ 2 มิลลิเมตร จากนั้นหยิบไส้ที่ผัดไว้ขนาดเล็กกว่าแป้ง 
                     จับให้เป็นก้อน ๆ แล้ววางลงบนแป้ง ห่อและปั้นให้เป็นลูกกลม ๆ วางบนถาดเตรียมไว้ ทำจนแป้งและไส้หมด
                     Tip:  ใช้แป้งโรยบนถาดที่จะนำขนมโคไปวาง เพื่อไม่ให้ตัวแป้งติดถาด และแตก
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>2</stepnum>
                 <stepname>สอดไส้+ต้ม</stepname>
                 <timerMinutes>20</timerMinutes>
-                <descrition>
+                <description>
                     นำหม้อขึ้นตั้งไฟกลาง ใส่น้ำลงไป รอจนน้ำเดือด แล้วใส่ขนมโคที่ปั้นไว้ลงไปต้มจนสุก เสร็จแล้วตักไปพักไว้ในน้ำเย็น
                     Tip : ถ้าขนมโคลอยขึ้นเหนือน้ำ แสดงว่าสุกแล้ว
-                </descrition>
+                </description>
             </substep>
             <substep>
                 <stepnum>3</stepnum>
