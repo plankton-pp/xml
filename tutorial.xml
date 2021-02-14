@@ -5,6 +5,8 @@
         <subtitle>เปลี่ยนบัวลอยธรรมดาให้น่ากินมากขึ้นกับเมนู "บัวลอยเสียบไม้"</subtitle>
         <component>กะทิ 300 มิลลิลิตร,ไข่ไก่ 10 ฟอง,แป้งข้าวจ้าว 200กรัม</component>
         <onstep>4</onstep>
+        <imgIcon>https://img.wongnai.com/p/1920x0/2018/06/18/2979c50de28b4137a3c0224591db4af5.jpg</imgIcon>
+        <imgCover>https://img.wongnai.com/p/1920x0/2018/06/18/01a71d61f4a24bdf83c61d257be49dac.jpg</imgCover>
         <step>
             <substep>
                 <stepnum>1</stepnum>
@@ -49,6 +51,8 @@
             ,น้ำกระเจี๊ยบ 50 มิลลิลิตร,หัวกะทิ 500 มิลลิลิตร,น้ำตาลทราย 50 กรัม,เกลือสมุทร 1 ช้อนชา,ใบเตย 1 มัด,งาข้าวคั่ว (ตามที่ชอบ)
         </component>
         <onstep>4</onstep>
+        <imgIcon>https://img.wongnai.com/p/1920x0/2018/03/05/2fc2c60e210c4f53b9e454080b1bdab5.jpg</imgIcon>
+        <imgCover>https://img.wongnai.com/p/1920x0/2018/03/05/8862df3170ec4f4da7391f23d655d6c6.jpg</imgCover>
         <step>
             <substep>
                 <stepnum>1</stepnum>
