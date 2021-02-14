@@ -104,8 +104,8 @@
             </substep>
         </step>
     </menu>
-    <menu name="menu1">
-        <title>บัวลอยเสียบไม้</title>
+    <menu name="menu3">
+        <title>บัวขาวมั้งสัส</title>
         <subtitle>เปลี่ยนบัวลอยธรรมดาให้น่ากินมากขึ้นกับเมนู "บัวลอยเสียบไม้"</subtitle>
         <component>กะทิ 300 มิลลิลิตร,ไข่ไก่ 10 ฟอง,แป้งข้าวจ้าว 200กรัม</component>
         <onstep>4</onstep>
