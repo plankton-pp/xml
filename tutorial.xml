@@ -104,4 +104,47 @@
             </substep>
         </step>
     </menu>
+    <menu name="menu1">
+        <title>บัวลอยเสียบไม้</title>
+        <subtitle>เปลี่ยนบัวลอยธรรมดาให้น่ากินมากขึ้นกับเมนู "บัวลอยเสียบไม้"</subtitle>
+        <component>กะทิ 300 มิลลิลิตร,ไข่ไก่ 10 ฟอง,แป้งข้าวจ้าว 200กรัม</component>
+        <onstep>4</onstep>
+        <imgIcon>https://img.wongnai.com/p/1920x0/2018/06/18/2979c50de28b4137a3c0224591db4af5.jpg</imgIcon>
+        <imgCover>https://img.wongnai.com/p/1920x0/2018/06/18/01a71d61f4a24bdf83c61d257be49dac.jpg</imgCover>
+        <step>
+            <substep>
+                <stepnum>1</stepnum>
+                <stepname>ทำน้ำราด</stepname>
+                <timerMinutes>13</timerMinutes>
+                <description>นำหม้อขึ้นตั้งไฟปานกลาง เทหัวกะทิลงไป ตามด้วยน้ำตาลทราย และเกลือ คนให้เข้ากัน และต้มจนเดือด</description>
+            </substep>
+            <substep>
+                <stepnum>2</stepnum>
+                <stepname>ทำแป้ง</stepname>
+                <timerMinutes>0</timerMinutes>
+                <description>
+                    แบ่งแป้งข้าวเหนียว และแป้งข้าวเจ้า เป็นสามส่วนเท่า ๆ กัน (ส่วนละ ⅓ ถ้วย)
+                    ถ้วยแรกใส่มันม่วงบด และน้ำเปล่า (แป้งมันม่วง) นวดให้เข้ากันจนแป้งไม่ติดมือ
+                </description>
+            </substep>
+            <substep>
+                <stepnum>2</stepnum>
+                <stepname>ทำแป้ง</stepname>
+                <timerMinutes>45</timerMinutes>
+                <description>
+                    ถ้วยที่สองใส่ฟักทองบด และน้ำเปล่า (แป้งฟักทอง) นวดให้เข้ากันจนแป้งไม่ติดมือ
+                    ถ้วยที่สาม ใส่น้ำใบเตย นวดให้เข้ากันจนแป้งไม่ติดมือ
+                </description>
+            </substep>
+            <substep>
+                <stepnum>2</stepnum>
+                <stepname>ทำแป้ง</stepname>
+                <timerMinutes>20</timerMinutes>
+                <description>
+                    ปั้นบัวลอยขนาดประมาณเท่าเหรียญห้า หรือตามชอบ จากนั้นนำมาเสียบไม้ และนำไปแช่เย็นให้เซตตัว 20 นาที
+                    นำบัวลอบเสียบไม้ไปต้มในน้ำเดือดจัดจนสุก และตักออกใส่น้ำเย็นเพื่อให้เซตตัว
+                </description>
+            </substep>
+        </step>
+    </menu>
 </resources>
